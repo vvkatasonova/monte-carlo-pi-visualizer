@@ -4,6 +4,10 @@ A desktop application that demonstrates how the Monte Carlo method can be used t
 
 The project was developed as university coursework to combine probabilistic modelling, object-oriented design and interactive data visualization.
 
+## Demo
+
+[Watch the application demo](demo/demo.mp4)
+
 ![Monte Carlo simulation result](docs/screenshots/automatic-mode.png)
 
 ## How it works
